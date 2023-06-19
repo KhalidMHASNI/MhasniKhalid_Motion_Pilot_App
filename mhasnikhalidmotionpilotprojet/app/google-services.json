@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134965247073",
+    "project_id": "mhasni-khalid-motionpilot",
+    "storage_bucket": "mhasni-khalid-motionpilot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134965247073:android:41ea29e83a587c4962fe20",
+        "android_client_info": {
+          "package_name": "com.example.mhasnikhalid_motionpilot_projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARrikIdHK_3nJ8sQzFZ5BZG1lMuSQ9Yxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
